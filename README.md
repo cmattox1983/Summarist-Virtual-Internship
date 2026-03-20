@@ -18,8 +18,3 @@ A full-stack book summary platform where users can create accounts, browse books
 
 ## 🌐 Live Demo
 [https://virtual-internship-summarist-uw2o.vercel.app/]
-
----
-
-## 📸 Screenshot
-![summarist.png]
